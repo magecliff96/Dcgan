@@ -1,2 +1,2 @@
 # usable_gan_collection
-Gan codes found online and edited/debugged by Aiden Yoon and Zihao Chen  
+Gan modifed,edited, and debugged by Aiden Yoon and Zihao Chen  
